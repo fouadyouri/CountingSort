@@ -1,5 +1,5 @@
 ///////////////////////////////////////////////////////////////////////////
-// CountingSort/Source.cpp                                                     //
+// CountingSort/Source.cpp                                               //
 // ver 1.0                                                               //
 // Type:	source file                                                    //
 // Language:    C++                                                      //
